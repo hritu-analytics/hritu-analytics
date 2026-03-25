@@ -10,7 +10,7 @@ Each project follows a consistent structure: **problem → data → analysis →
 
 | # | Project | What I Solved | Tools |
 |---|---------|---------------|-------|
-| 1 | [E-Commerce Funnel Analysis](https://github.com/[username]/ecommerce-funnel-analysis) | Found the single biggest revenue leak in an online marketplace and it wasn't what the product team assumed | Python, SQL, Power BI |
+| 1 | [E-Commerce Funnel Analysis](https://github.com/hritu-analytics/ecommerce-funnel-analysis) | Found the single biggest revenue leak in an online marketplace and it wasn't what the product team assumed | Python, SQL, Power BI |
 | 2 | Restaurant Menu Engineering *(coming soon)* | Helped a local restaurant discover which dishes are quietly bleeding their margins | Excel, Power BI |
 | 3 | Marketing Channel Attribution *(coming soon)* | Showed why cutting Instagram spend would actually hurt Google conversions | Python, Excel, Power BI |
 | 4 | Personal Spending Autopsy *(coming soon)* | Tracked my own spending for 90 days and found 3 specific money leaks | Excel, Power BI |
