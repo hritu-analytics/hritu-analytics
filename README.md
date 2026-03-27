@@ -1,32 +1,18 @@
-# Hi, I'm Hrituparna 👋
+# 💫 About Me:
+🔭 I’m currently working on  <br>- End-to-end data analysis projects focused on revenue, conversion, and profitability  <br>- Building structured case studies (problem → analysis → recommendation)  <br><br>👯 I’m looking to collaborate on  <br>- Business-focused analytics projects (marketing, customer behaviour, operations)  <br>- Work that requires translating data into decisions  <br><br>🤝 I’m looking for help with  <br>- Improving SQL performance and query design  <br>- Structuring projects to reflect real-world business workflows  <br><br>🌱 I’m currently learning  <br>- Advanced SQL (window functions, query optimisation)  <br>- Data modelling and better dataset design  <br>- Clearer data storytelling in Power BI  <br><br>💬 Ask me about  <br>- E-commerce funnel analysis and where revenue drops actually happen  <br>- Customer churn patterns and retention risk  <br>- How I structure analysis from a business question  <br><br>⚡ Fun fact  <br>- I treat personal decisions (spending, habits) as small data problems and analyse them the same way
 
-**MS Business Analytics student | Aspiring Data & Marketing Analyst**
 
-I come from a marketing background, and I'm now learning to bring data into every decision I make, professionally and personally. This portfolio is a collection of projects where I've used data to solve real problems, not just complete assignments.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hritu.d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hrituparna Das) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrituparna19@gmail.com) 
 
-## What You'll Find Here
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hritu-analytics&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hritu-analytics&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hritu-analytics&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Each project follows a consistent structure: **problem → data → analysis → "I was wrong about..." → recommendation → impact.**
+---
+[![](https://visitcount.itsvg.in/api?id=hritu-analytics&icon=0&color=0)](https://visitcount.itsvg.in)
 
-| # | Project | What I Solved | Tools |
-|---|---------|---------------|-------|
-| 1 | [E-Commerce Funnel Analysis](https://github.com/hritu-analytics/ecommerce-funnel-analysis) | Found the single biggest revenue leak in an online marketplace and it wasn't what the product team assumed | Python, SQL, Power BI |
-| 2 | Restaurant Menu Engineering *(coming soon)* | Helped a local restaurant discover which dishes are quietly bleeding their margins | Excel, Power BI |
-| 3 | Marketing Channel Attribution *(coming soon)* | Showed why cutting Instagram spend would actually hurt Google conversions | Python, Excel, Power BI |
-| 4 | Personal Spending Autopsy *(coming soon)* | Tracked my own spending for 90 days and found 3 specific money leaks | Excel, Power BI |
-| 5 | Job Market Skills Decoder *(coming soon)* | Analysed 200+ job postings to find the actual skills gap in analyst hiring | Excel, SQL, Power BI |
-
-## Tools I Work With
-
-- **Analysis:** Python (pandas, matplotlib, seaborn), SQL, Excel
-- **Visualisation:** Power BI, Tableau (learning)
-- **Other:** Git, Jupyter Notebooks
-
-## About My Approach
-
-I don't believe in projects that stop at "here's a chart." Every analysis I do ends with a decision: what would I recommend, and why? That's what separates a dashboard from an insight.
-
-I'm actively looking for **data analyst, business analyst, and marketing analytics roles** where I can bring this analytical mindset to a team that values data-driven decisions.
-
-📧 hrituparna19@gmail.com  
-💼 https://www.linkedin.com/in/hrituparna-das-01927425b/
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
